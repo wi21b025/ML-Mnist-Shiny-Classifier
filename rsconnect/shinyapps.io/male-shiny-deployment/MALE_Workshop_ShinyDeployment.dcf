@@ -1,0 +1,13 @@
+name: MALE_Workshop_ShinyDeployment
+title: MALE_Workshop_ShinyDeployment
+username: male-shiny-deployment
+account: male-shiny-deployment
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10811948
+bundleId: 8058323
+url: https://male-shiny-deployment.shinyapps.io/MALE_Workshop_ShinyDeployment/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: myTest/myNumer.jpg|myTest/myNumer.png|myTest/Number0.jpg|train_model.R|testSample
